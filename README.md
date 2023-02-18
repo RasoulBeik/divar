@@ -1,1 +1,2 @@
-# divar
+# divar real estate ads. analysis</br>
+divar is an Iranian advertising platform (divar.ir). Everybody can advertise anything, including cars, real estates, home appliances, tools, and etc. In this project, I collected advertisements about selling and renting real estates in different cities. Collected data were used to analyze trend of price based on different parameters like category (house, apartment, …), area, and neighborhood.
